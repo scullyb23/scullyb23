@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: scullyb23@wpsma.org
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite movie is ParaNorman
-- ✨ Portfolio: 
+- ✨ Portfolio: https://github.com/scullyb23/Portfolio
 
