@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: scullyb23@wpsma.org
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite movie is ParaNorman
-## [portfolio](https://scullyb23.github.io/portfolio/index.html)
+## [portfolio]
